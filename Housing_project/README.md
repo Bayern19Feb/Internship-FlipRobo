@@ -32,7 +32,6 @@ dependent variable (Sale Price)
 
 <img src="https://user-images.githubusercontent.com/65072142/138442338-4129d352-dda2-46bd-b1ef-b074b7a115f4.png" width="100" height="50">
 <img src="https://user-images.githubusercontent.com/65072142/138442499-41714fa0-593d-441d-b169-5af57db7e725.png" width="100" height="50">
-<img src="https://user-images.githubusercontent.com/65072142/138442623-b3936b99-ebd0-495a-93ee-acc1a65ff790.png" width="100" height="50">
 
 
 ### PIPELINE
