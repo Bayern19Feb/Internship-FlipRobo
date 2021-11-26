@@ -7,4 +7,6 @@ Kaggle Python 3.8 scikit-learnn
 Deployed at: https://ml-heartfail.herokuapp.com/
 
 * If you are searching for Code, Algorithms used and Accuracy of the model.. you won't find it here. Click the link mentioned below for the same:
-Link: 
+Link: https://github.com/Bayern19Feb/Internship-FlipRobo/blob/main/Heart%20Disease%20Prediction/Heart%20Failure%20(Model%20Building).ipynb
+
+* For EDA(Exploratory Data Analysis) Link:
